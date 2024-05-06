@@ -1,6 +1,6 @@
-# Módulo 2 – Sistema RESILIADATA
+# Sistema RESILIADATA
 ## Objetivo
-O objetivo do projeto é realizar a modelagem (conceitaul e lógico) de um banco de dados da empresa Resilia. 
+O objetivo do projeto é realizar a modelagem de um banco de dados da empresa Resilia. 
 
 A Atividade consistem em 4 perguntas sendo:
 ```
